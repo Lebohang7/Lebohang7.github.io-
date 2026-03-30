@@ -62,8 +62,6 @@ Cape Peninsula University of Technology (CPUT)
 
 ---
 
-## 🎥 Mock interview video
-[![Watch my mock interview video](C:\Users\USER\Downloads\WhatsApp Video 2026-03-09 at 23.14.56 (1).mp4)
 
 ---
 
