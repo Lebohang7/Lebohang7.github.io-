@@ -38,7 +38,7 @@ Cape Peninsula University of Technology (CPUT)
 
 ---
 
-### 🎨 Creative Current (Brand Identity Project)
+###  Creative Current (Brand Identity Project)
 - Designed a complete brand identity including logo and guidelines  
 - Developed visual systems (typography, color palette)  
 - Applied design thinking and branding strategies  
@@ -54,13 +54,10 @@ Cape Peninsula University of Technology (CPUT)
 
 ---
 
-## 🎨 Design Skills
-- Wireframing & Prototyping  
-- User Research  
-- Visual Hierarchy & Layout  
-- Typography & Branding  
 
 ---
+## 🎥 Mock interview video
+[![Watch my mock interview video](https://drive.google.com/file/d/1p2yE_clcH6iv5I5YJgARDD_AU06OdoFG/view?usp=sharing)
 
 
 ---
