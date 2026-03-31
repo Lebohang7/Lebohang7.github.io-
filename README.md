@@ -58,9 +58,7 @@ To grow as a **UX Designer and Front-End Developer**, contributing to innovative
 
 
 ---
-## 🎥 Mock Interview
+## 🎥 Mock Interview Video
 
-<video width="600" controls>
-  <source src="Lebohang Mock interview(1).mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch my mock interview video](https://drive.google.com/uc?export=download&id=1p2yE_clcH6iv5I5YJgARDD_AU06OdoFG)
+---
