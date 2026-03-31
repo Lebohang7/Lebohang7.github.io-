@@ -53,17 +53,16 @@ Cape Peninsula University of Technology (CPUT)
 
 
 ---
-
-
----
-## 🎥 Mock Interview Video
-
-[Watch my mock interview video](https://drive.google.com/uc?export=download&id=1p2yE_clcH6iv5I5YJgARDD_AU06OdoFG)
----
-
-
-## 🎯 Career Objective
+##  Career Objective
 To grow as a **UX Designer and Front-End Developer**, contributing to innovative digital solutions while continuously improving my skills in design, development, and user experience.
+
+
+---
+
+
+
+<video width="600" controls src="Lebohang Mock interview.mp4">
+</video>
 
 ---
 
