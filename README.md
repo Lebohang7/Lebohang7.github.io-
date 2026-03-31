@@ -58,9 +58,6 @@ To grow as a **UX Designer and Front-End Developer**, contributing to innovative
 
 
 ---
-## Mock interview video
-<video width="600" controls src="Lebohang Mock interview.mp4">
-</video>
 
 ---
 
