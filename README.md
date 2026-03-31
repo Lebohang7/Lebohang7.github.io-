@@ -8,30 +8,30 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 I am an aspiring **UX Designer and Front-End Developer** currently studying Information and Communication Technology at the Cape Peninsula University of Technology (CPUT).  
 
 I am passionate about creating **user-friendly, visually appealing, and impactful digital experiences**. My work focuses on solving real-world problems through design, research, and technology.
 
 ---
 
-## 🎓 Education
+## Education
 **Diploma in Information and Communication Technology**  
 Cape Peninsula University of Technology (CPUT)  
 2023 – Present  
 
 ---
 
-## 💼 Projects
+##  Projects
 
-### 📱 Smart To-Do List Application
+###  Smart To-Do List Application
 - Developed a task management web app using JavaScript  
 - Implemented task prioritization and interactive UI  
 - Applied project management principles in development  
 
 ---
 
-### 🎙 The Voices of Khayelitsha (Podcast)
+###  The Voices of Khayelitsha (Podcast)
 - Created a podcast addressing social issues like crime and gangsterism  
 - Conducted interviews and audio storytelling  
 - Focused on community-driven digital solutions  
@@ -45,7 +45,7 @@ Cape Peninsula University of Technology (CPUT)
 
 ---
 
-## 🛠 Technical Skills
+##  Technical Skills
 * HTML, CSS, JavaScript  
 - Responsive Web Design  
 - UI/UX Design Principles  
