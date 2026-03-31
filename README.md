@@ -61,6 +61,6 @@ To grow as a **UX Designer and Front-End Developer**, contributing to innovative
 ## 🎥 Mock Interview
 
 <video width="600" controls>
-  <source src="Lebohang Mock interview(1)" type="video/mp4">
-  
+  <source src="Lebohang Mock interview(1).mp4" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
